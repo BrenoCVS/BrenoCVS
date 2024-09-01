@@ -16,17 +16,23 @@
   <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
   <p>- ☑️ Hardware. </p>
   <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
+  <p>- ☑️ Análise e Projeto de Sistemas </p>
+  <p>- ☑️ Desenvolvimento de Web Sites II; </p>
+  <p>- ☑️ Gerenciamento de Banco de Dados II; </p>
+  <p>- ☑️ Linguagem de Programação A; </p>
+  <p>- ☑️ Redes de Computadores. </p>
+  <p>- ☑️ Projeto Integrador; </p>
 	</div>
    <div align="center">
   <h3>- 🖥️ Em Andamento: </h3>
 	</div>
 	 <div align="center">
-  <p>- 🔲 Análise e Projeto de Sistemas </p>
-  <p>- 🔲 Desenvolvimento de Web Sites II; </p>
-  <p>- 🔲 Gerenciamento de Banco de Dados II; </p>
-  <p>- 🔲 Linguagem de Programação; </p>
-  <p>- 🔲 Projeto Integrador; </p>
-  <p>- 🔲 Redes de Computadores. </p>
+  
+  <p>- 🔲 Linguagem de Programação B; </p>
+  <p>- 🔲 Projeto Integrador 3; </p>
+  <p>- 🔲 Segurança da Informação </p>
+  <p>- 🔲 Tópicos Avançados em Tecnologia da Informação </p>
+  
 </div>
 <h3 align="center">
   Connect with me
@@ -35,7 +41,7 @@
 <div align="center">
 <p>
 
-<a href="https://www.instagram.com/victorguerreiro_br/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
+<a href="https://www.instagram.com/brenocvs14/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
 
    <a href="mailto:brenocvsilva14@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
@@ -82,6 +88,9 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   <br>
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  <br>
+	<br>
+   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">VictorGuerreiro</a>
   <br>
 </details>
 
