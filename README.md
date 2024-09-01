@@ -89,9 +89,7 @@
   <br>
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   <br>
-	<br>
-   - GitHub Streak by <a href="https://github.com/VictorWebTech">VictorWebTech</a>
-  <br>
+	
 </details>
 
 <!-- GITHUB STATUS -->
