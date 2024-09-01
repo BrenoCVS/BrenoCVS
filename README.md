@@ -41,7 +41,7 @@
 <div align="center">
 <p>
 
-<a href="https://www.instagram.com/brenocvs14/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
+<a href="https://www.instagram.com/brenocvs/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
 
    <a href="mailto:brenocvsilva14@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
@@ -90,7 +90,7 @@
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   <br>
 	<br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">VictorGuerreiro</a>
+   - GitHub Streak by <a href="https://github.com/VictorWebTech">VictorWebTech</a>
   <br>
 </details>
 
