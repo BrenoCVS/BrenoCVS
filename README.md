@@ -5,35 +5,9 @@
  <div align="center">
 <!--   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
 
-  <h2>- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo</h2>
-  <p>- 🖥️ Estudando Linguagens de Marcação | HTML5, CSS3</p>
-  <p>- 🖥️ Estudando Linguagem de Programação | Java, PHP</p>
-  <h3>- 🖥️ Concluído: </h3>
-	</div>
-	 <div align="center">
-  <p>- ☑️  Algoritmo e Programação (Lógica de Programação); </p>
-  <p>- ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
-  <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
-  <p>- ☑️ Hardware. </p>
-  <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
-  <p>- ☑️ Análise e Projeto de Sistemas </p>
-  <p>- ☑️ Desenvolvimento de Web Sites II; </p>
-  <p>- ☑️ Gerenciamento de Banco de Dados II; </p>
-  <p>- ☑️ Linguagem de Programação A; </p>
-  <p>- ☑️ Redes de Computadores. </p>
-  <p>- ☑️ Projeto Integrador; </p>
-	</div>
-   <div align="center">
-  <h3>- 🖥️ Em Andamento: </h3>
-	</div>
-	 <div align="center">
+  <h2>- 📖Técnico de informática pelo Instituto Federal de São Paulo</h2>
+  <h2>- 📖Cursando Bacharelado em Sistemas da Informação Instituto Federal de São Paulo</h2>
   
-  <p>- 🔲 Linguagem de Programação B; </p>
-  <p>- 🔲 Projeto Integrador 3; </p>
-  <p>- 🔲 Segurança da Informação </p>
-  <p>- 🔲 Tópicos Avançados em Tecnologia da Informação </p>
-  
-</div>
 <h3 align="center">
   Connect with me
 </h3>
