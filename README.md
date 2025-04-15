@@ -5,8 +5,8 @@
  <div align="center">
 <!--   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
 
-  <h2>- 📖Técnico de informática pelo Instituto Federal de São Paulo</h2>
-  <h2>- 📖Cursando Bacharelado em Sistemas da Informação Instituto Federal de São Paulo</h2>
+  <h2>- 📖Computer Technician from the Federal Institute of São Paulo</h2>
+  <h2>- 📖Future Bachelor's Degree in Information Systems from the Federal Institute of São Paulo</h2>
   
 <h3 align="center">
   Connect with me
@@ -19,7 +19,12 @@
 
    <a href="mailto:brenocvsilva14@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a></p>
+</a>
+<a href="https://www.linkedin.com/in/breno-vialle-b8966234b" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=EBD03E" alt="LinkedIn">
+</a>
+
+</p>
 </div>
 
 ---
@@ -35,7 +40,10 @@
 ### 👩‍💻 &nbsp;Back-End
 
 ![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
-![JAVA](https://img.shields.io/badge/JAVA-E7ECEB?style=for-the-badge&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 
 ### ⚡ &nbsp;Database
 
