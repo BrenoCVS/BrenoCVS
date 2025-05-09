@@ -14,122 +14,51 @@
 
 <div align="center">
 <p>
-
-<a href="https://www.instagram.com/brenocvs/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
-
-   <a href="mailto:brenocvsilva14@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/breno-vialle-b8966234b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=EBD03E" alt="LinkedIn">
-</a>
-
+ <a href="https://www.instagram.com/brenocvs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/breno-vialle-b8966234b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:brenocvsilva14@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 </div>
 
----
 
-## 🛠 &nbsp;Tech Stack
-
-### 🎨 &nbsp;Front-end
-
-![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=1572B6)&nbsp;
-
-### 👩‍💻 &nbsp;Back-End
-
-![PHP](https://img.shields.io/badge/PHP-E7ECEB?style=for-the-badge&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-
-### ⚡ &nbsp;Database
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECE2FB?style=for-the-badge&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
-
-### 📚 &nbsp;Frameworks
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
-## 📊 &nbsp;Stats
-
-<h3 align="left">GitHub Stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrenoCVS&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrenoCVS&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=10&show_icons=true&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/BrenoCVS/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BrenoCVS&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B)](https://git.io/streak-stats)
-
-<details align="left">
-  <summary>Credits</summary> 
-  - Badges by <a href="https://shields.io/">shields.io</a>
-  <br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-	
-</details>
-
-<!-- GITHUB STATUS -->
-
-<!--
-<div align="center">
-  <a href="https://github.com/ViictorWebTech">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViictorWebTech&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViictorWebTech&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
-<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-  <!--
-<div style="display: inline_block"><br>
   
-  -->
 
-  <!-- TECNOLOGIAS -->
-<!--
-<div align="center"> -->
-  <!--
   
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Victor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrenoCVS&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenoCVS&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
  
-  <img align="center" alt="Victor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- 
-  <img align="center" alt="Victor-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- 
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman,bootstrap,mysql,postgres,php,java,cpp,python" />
+</a>
+  <br />
+
   </div>
-  
-  <img align="right" alt="Victor-pic" height="150" style="border-radius:50px;" src="https://d1fdloi71mui9q.cloudfront.net/5MJ2xszwQD6cXigBY58V_35738fa8d3xSsx2Y?width=338&height=338">
-</div>
-  -->
 
+ 
 ##
+ 
 
-<div> 
+
+
+
+
+
+ 
   
-  <!-- REDES -->
-  <div align="center">
-  <!-- Secret <a href="https://www.youtube.com/channel/UCMD8AJbtJl1DUl-d3YkZztA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/victorguerreiro_br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://www.twitch.tv/victor_guerreiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/utxHV5Z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/VictorGuerrei16" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorguerreirocontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
--->
-  </div>
+  
 
- <!--
-  ![Snake animation](https://github.com/ViictorWebTech/ViictorWebTech/blob/output/github-contribution-grid-snake.svg)
-  -->
+  
 
-</div>
+
+
