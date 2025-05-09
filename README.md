@@ -1,15 +1,9 @@
-<h1 align="center">
-  Hello World, I'm Breno Silva
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Breno+Silva;Future+Bachelor's+Degree+in+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  <div align="center">
 <!--   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
-
-  <h2>- 📖Computer Technician from the Federal Institute of São Paulo</h2>
-  <h2>- 📖Future Bachelor's Degree in Information Systems from the Federal Institute of São Paulo</h2>
-  
 <h3 align="center">
-  Connect with me
+  Connect with me:
 </h3>
 
 <div align="center">
