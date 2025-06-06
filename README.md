@@ -30,14 +30,20 @@
  | ----------- | ----------- |
 
 
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman,bootstrap,mysql,postgres,php,java,cpp,python" />
-</a>
-  <br />
+ <p align="center">
 
-  </div>
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman,bootstrap,mysql,postgres,php,java,cpp,python" alt="Skills" height="48" />
+
+  <!-- Neovim -->
+  <a href="https://neovim.io/" target="_blank" title="Neovim">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" height="48" style="background-color: white; border-radius: 8px;" />
+  </a>
+
+</p>
+
+
+
 
  
 ##
