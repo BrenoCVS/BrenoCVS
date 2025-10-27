@@ -33,7 +33,8 @@
  <p align="center">
 
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman,bootstrap,mysql,postgres,php,java,cpp,python" alt="Skills" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman" alt="Skills" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgres,php,java,cpp,python" alt="Skills" height="48" />
 
   <!-- Neovim -->
   <a href="https://neovim.io/" target="_blank" title="Neovim">
