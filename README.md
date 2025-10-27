@@ -34,6 +34,7 @@
 
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,github,linux,postman" alt="Skills" height="48"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgres,php,java,cpp,python" alt="Skills" height="48" />
 
   <!-- Neovim -->
